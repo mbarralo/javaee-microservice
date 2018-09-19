@@ -1,7 +1,7 @@
 
 ## Instructions
 
-Sample micro service with persistence data to kickstart any microservice demo
+Sample 'micro service' with persistence data to kickstart any microservice demo
 
 ### Run in Wildlfy 10 and hot deploy war during DEV
 
